@@ -1,4 +1,4 @@
 # practical-application2
-This project was about finding what drives the price of the car. It was clear we had to do an importance, initially I did
+The project was about finding what drives the price of the car. It was clear we had to do an importance, initially I did
 permuation importance but it took a very long time for the code to run so I used RandomForestRegressor to run the importance
 and it shows that the year has the highest impact in prices. Then I chose type as the subcategory of what leads to higher prices since the real world car buyers look into the types of the car when looking for the best price in that catagory it shows the type 5 is the cheapest of the cars are new. I did a time series using age as the car manifactures every year, and it shows how prices in general rises every year. But the most important takeaway for the client is the see is the check the updates in predicted prices as the raise every year and frequently monitor the market of car prices and chech with type of car maintain the best prices for the new cars that are on sale. 
